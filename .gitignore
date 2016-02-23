@@ -1,0 +1,9 @@
+RemoteSystemsTempFiles/
+target/
+test/
+pom.xml
+.metadata/
+.recommenders/
+.settings/
+.classpath
+.project
