@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
        
-    	String str = "string and something string or       string";
+    	String str = "string and something string or     string";
     	
     	StringUtills stringUtills = new StringUtills();
     
